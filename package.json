@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "Sample application using Express",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Beier",
+  "license": "ISC"
+}
